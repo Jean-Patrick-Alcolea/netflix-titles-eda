@@ -21,12 +21,12 @@ This project investigates Netflix’s catalog to answer key questions such as:
 
 ## 📊 Key Features
 
-✅ Cleaned and preprocessed the dataset
-✅ Extracted and transformed date, duration, and genre information
-✅ Built clear and insightful visualizations with Seaborn and Plotly
-✅ Created KPI metrics for total titles, most common genres, top countries
-✅ Built bar charts, time series trends, and country-level insights
-✅ Optional machine learning-ready features (e.g., content classification, clustering)
+- ✅ Cleaned and preprocessed the datase
+- ✅ Extracted and transformed date, duration, and genre information
+- ✅ Built clear and insightful visualizations with Seaborn and Plotly
+- ✅ Created KPI metrics for total titles, most common genres, top countries
+- ✅ Built bar charts, time series trends, and country-level insights
+- ✅ Optional machine learning-ready features (e.g., content classification, clustering)
 
 ---
 
